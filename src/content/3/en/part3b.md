@@ -75,7 +75,7 @@ const cors = require('cors')
 app.use(cors())
 ```
 
-And the frontend works! However, the functionality for changing the importance of notes has not yet been implemented to the backend. 
+And the frontend works! However, the functionality for changing the importance of notes has not yet been implemented to the backend. Don't worry about this just yet, because it will be addressed later.
 
 You can read more about CORS from [Mozillas page](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).
 
